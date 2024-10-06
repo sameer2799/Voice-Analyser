@@ -1,0 +1,23 @@
+/VC_backend/node_modules
+/VC_backend/.env
+
+
+
+/Voice_Analyser/node_modules/
+/Voice_Analyser/.expo/
+/Voice_Analyser/dist/
+/Voice_Analyser/npm-debug.*
+/Voice_Analyser/*.jks
+/Voice_Analyser/*.p8
+/Voice_Analyser/*.p12
+/Voice_Analyser/*.key
+/Voice_Analyser/*.mobileprovision
+/Voice_Analyser/*.orig.*
+/Voice_Analyser/web-build/
+
+/Voice_Analyser/# macOS
+/Voice_Analyser/.DS_Store
+
+
+/Voice_Analyser/expo-env.d.ts
+/Voice_Analyser/# @end expo-cli
